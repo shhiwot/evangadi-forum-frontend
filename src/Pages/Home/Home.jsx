@@ -2,8 +2,10 @@ import Footer from "../../Component/Footer/Footer";
 import { Link } from "react-router-dom";
 import React from "react";
 import classes from "./home.module.css";
-import logo from "../../Asset/image/evangadi-logo-home.png";
-import img from "../../Asset/image/newpic.jpg";
+
+import logo from "../../../public/Asset/image/evangadi-logo-home.png";
+// import img from "../../..Asset/image/newpic.jpg";
+import img from "../../../public/Asset/image/newpic.jpg";
 const Home = () => {
   return (
     <>

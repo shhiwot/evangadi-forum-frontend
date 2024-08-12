@@ -1,6 +1,7 @@
 
 .signup {
-  background-image: url("../../Asset/image/10001.svg");
+  /* background-image: url("../../Asset/image/10001.svg"); */
+   background-image: url("../../../public/Asset/image/10001.svg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;

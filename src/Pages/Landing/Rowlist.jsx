@@ -1,6 +1,7 @@
 import React from "react";
 import classes from "./style.module.css";
-import image from "../../Asset/image/1.png";
+// import image from "../../Asset/image/1.png";
+import image from "../../../public/Asset/image/1.png";
 import { Link } from "react-router-dom";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 

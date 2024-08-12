@@ -3,7 +3,7 @@ import { DataContext } from "../DataProvider/DataProvider";
 import { Type } from "../../utility/actiontype";
 import { useNavigate } from "react-router-dom";
 import classes from "./style.module.css";
-import logo from "../../Asset/image/evangadi-logo-home.png";
+import logo from "../../../public/Asset/image/evangadi-logo-home.png";
 import { Link } from "react-router-dom";
 
 const Header = () => {
