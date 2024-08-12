@@ -7,9 +7,7 @@ export default defineConfig({
   build: {
     outDir: "dist", // Specify the output directory for the build
     rollupOptions: {
-      input: {
-        main: "index.html", // Entry point for the application
-      },
+      input: "index.html", // Simplify to just 'index.html'
     },
   },
   base: "/", // Base public path when serving the app. Adjust if deploying to a subdirectory.
